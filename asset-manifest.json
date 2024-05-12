@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/globalnoc-javascript-scenario/static/css/main.e6c13ad2.css",
+    "main.js": "/globalnoc-javascript-scenario/static/js/main.e65a30ac.js",
+    "static/js/453.c09a555b.chunk.js": "/globalnoc-javascript-scenario/static/js/453.c09a555b.chunk.js",
+    "index.html": "/globalnoc-javascript-scenario/index.html",
+    "main.e6c13ad2.css.map": "/globalnoc-javascript-scenario/static/css/main.e6c13ad2.css.map",
+    "main.e65a30ac.js.map": "/globalnoc-javascript-scenario/static/js/main.e65a30ac.js.map",
+    "453.c09a555b.chunk.js.map": "/globalnoc-javascript-scenario/static/js/453.c09a555b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e65a30ac.js"
+  ]
+}
